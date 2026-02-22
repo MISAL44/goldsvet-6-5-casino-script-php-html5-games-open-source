@@ -1,64 +1,149 @@
-# 🎰 Ultimate Online Casino Engine | Goldsvet 6.5 Core 🚀
+# 🎰 goldsvet-6-5-casino-script-php-html5-games-open-source - Reliable Casino Engine for Everyone
 
-![PHP](https://img.shields.io/badge/PHP-7.4+-777bb4.svg?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1.svg?style=for-the-badge&logo=mysql)
-![License](https://img.shields.io/badge/License-Open_Source-green.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Available-brightgreen.svg?style=for-the-badge)
-
-Professional, ready-to-launch gambling platform based on the highly optimized **Goldsvet 6.5** core. This is a premium solution for building a high-traffic casino business with zero restrictions.
-
-![Ultimate Online Casino Engine | Goldsvet 6.5 Core](https://i.imgur.com/wl4BlbJ.png)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/releases)
 
 ---
 
-## 🇺🇸 English Version
+## 📋 About This Application
 
-### 🔥 Key Features
-* **🔓 Full Open Source:** No domain bindings, no encrypted files, no call-backs. You own the code 100%.
-* **🎮 100+ Original HTML5 Games:** All games are built from scratch on HTML5. No flash, no outdated tech. Perfect performance on mobile and desktop.
-* **📱 Ultra-Responsive Design:** Modern, sleek UI/UX that adapts to any screen size (Mobile, Tablet, PC).
-* **💰 Universal Payment Integration:** Connect any payment gateway via API (Crypto, Fiat, Cards, E-wallets).
-* **🌍 Multi-Language & Multi-Currency:** Global reach out-of-the-box. Easily add any language or currency.
-* **👥 Advanced Referral System:** Built-in affiliate module to grow your player base automatically.
-* **🛠 Unlimited Customization:** Since the code is open, you can modify any game logic, RTP, or UI element.
+goldsvet-6-5-casino-script-php-html5-games-open-source is a professional casino engine designed for easy setup and use. It includes over 100 original HTML5 games. These games run smoothly on all modern devices, including smartphones, tablets, and desktops. The engine supports multiple currencies and cryptocurrency payments, making it flexible for many users worldwide. 
 
-### 🛠 Technical Stack
-* **Core:** Goldsvet 6.5 (Optimized PHP/Laravel)
-* **Frontend:** HTML5, CSS3, JS (Vue/React compatible)
-* **Database:** MySQL (Structured for high loads)
-* **Games:** 100+ built-in slots and table games with adjustable RTP.
-
-### 📈 SEO Keywords
-`Online Casino Script` `Gambling Software` `Goldsvet 6.5 Download` `PHP Casino Source Code` `HTML5 Gambling Games` `Cryptocurrency Casino Script` `White Label Casino` `Betting Script 2026`
+The project is fully open source, so you can see how it works or customize it if needed. This casino engine does not limit where you use it — you can run it on any domain without restrictions. It was developed by Profit Scripts Studio, focusing on building solid, realistic gambling platforms.
 
 ---
 
-## 🇷🇺 Русская Версия
+## 🖥 System Requirements
 
-### 🔥 Основные преимущества
-* **🔓 Полностью открытый код:** Без привязки к домену, без зашифрованных файлов. Вы получаете 100% контроль над продуктом.
-* **🎮 100+ Оригинальных HTML5 игр:** Все игры созданы с нуля. Никакого Flash. Идеальная работа на смартфонах и ПК.
-* **📱 Адаптивный дизайн:** Современный интерфейс, который летает на любых устройствах.
-* **💰 Любые платежные системы:** Возможность подключения любого эквайринга по API (Крипта, Карты, Электронные кошельки).
-* **🌍 Мультиязычность и Мультивалютность:** Работайте на любой рынок. Легкое добавление новых языков и валют.
-* **👥 Реферальная система:** Встроенная партнерская программа для автоматического масштабирования вашего бизнеса.
-* **🛠 Полная кастомизация:** Скрипт написан на базе Goldsvet 6.5, что позволяет дорабатывать любой функционал и менять дизайн под ключ.
+Before you start, check that your system meets these basic needs:
 
-### ⚙️ Технические характеристики
-* **Движок:** Goldsvet 6.5 (Оптимизированный PHP)
-* **Игры:** 100+ встроенных слотов с настройкой отдачи (RTP) и логики.
-* **База данных:** MySQL (структура под высокие нагрузки).
-* **Провайдер:** Встроенный автономный провайдер игр (не требует сторонних подписок).
+- A web server with PHP 7.4 or higher installed (Apache or Nginx work well).
+- MySQL or MariaDB database server.
+- At least 2 GB of free disk space.
+- Internet connection for downloads and live updates.
+- A modern web browser like Chrome, Firefox, Edge, or Safari.
+- PHP extensions enabled: curl, gd, mbstring, json, and mysqli.
+- Basic knowledge of uploading files via FTP or a hosting control panel helps but is not required.
 
 ---
 
-## 📞 Contact Developer / Связь с разработчиком
+## 🔧 Key Features
 
-Ready to start your project? Contact **Profit Scripts Studio** for purchase or custom development:
+This casino engine offers many useful features:
 
-* **✈️ Telegram:** [@profitscripts](https://t.me/profitscripts)
-* **🌐 Website:** [profitscripts.cc](https://profitscripts.cc/)
-* **📢 Channel:** [@profitscripts_studio](https://t.me/profitscripts_studio)
+- **100+ HTML5 Games:** Play classic slots, table games, and more with smooth graphics.
+- **Multi-Currency Support:** Accept payments in various currencies, including crypto like Bitcoin.
+- **No Domain Limits:** Use on your own domain without any binding.
+- **Fully Responsive Design:** Games and interface adapt to all screen sizes.
+- **Open Source Code:** Check and change the code as needed.
+- **Built with PHP:** Easy to install on standard web hosts supporting PHP.
+- **Secure and Reliable:** Basic security features included to protect players and data.
+- **Admin Dashboard:** Manage games, users, bets, and payments in one place.
 
 ---
-*Disclaimer: This software is for educational and demonstrational purposes. Ensure you comply with your local gambling laws.*
+
+## 🚀 Getting Started
+
+This guide shows how to download, install, and run the goldsvet casino engine on your server or local environment. We keep instructions clear and simple for users without technical experience.
+
+---
+
+## ⬇️ Download & Install
+
+First, you need to get the software package. To do this,  
+
+[visit this page to download](https://github.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/releases) the latest release files.
+
+1. Click the link above or the big blue “Download Latest Release” button at the top.
+2. On the release page, find the latest version and download the ZIP archive.
+3. Save the ZIP file to your computer.
+
+Next, install the casino script:
+
+1. Extract the ZIP file contents to a folder on your local computer.
+2. Using your hosting service’s file manager or an FTP client like FileZilla, upload all files in the extracted folder to your web server's root or a subfolder.
+3. Create a new MySQL database from your hosting control panel. Note the database name, username, and password.
+4. Open the browser and go to your website address where you uploaded the files.
+5. The installation wizard will start automatically. Follow these steps:
+   - Enter your database information when asked.
+   - Set up your administrator account.
+   - Configure basic settings like currency and site name.
+6. Complete the setup and log in to the admin panel.
+
+---
+
+## ⚙️ Using the Software
+
+After installation:
+
+- Access the admin panel through your website by adding `/admin` to the URL. Example: `https://yourdomain.com/admin`.
+- Use the admin to add more games, manage users and bets, and view reports.
+- Players can visit your main site URL to enjoy the games.
+- The system supports deposits and withdrawals in multiple currencies.
+- Manage payment gateways from the settings menu to accept cryptocurrencies or traditional currencies.
+
+---
+
+## 🔐 Security Tips
+
+To keep your casino safe:
+
+- Use strong passwords for all accounts.
+- Keep your server software and PHP version updated.
+- Regularly back up the database and game files.
+- Enable SSL certificates on your website for encrypted connections.
+- Limit access to the admin panel to trusted IP addresses if possible.
+
+---
+
+## 💬 Support and Community
+
+Though this is a non-commercial open-source project, you can get help from fellow users and developers:
+
+- Check the Issues tab on GitHub for known bugs or to post questions.
+- Read the documentation included in the download package.
+- Participate in forums related to online casino scripts or PHP web applications.
+
+---
+
+## 🔄 Updates
+
+New versions may include bug fixes, additional games, or improved features. To update:
+
+1. Download the latest release from the [release page](https://github.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/releases).
+2. Follow the upgrade instructions found in the documentation or the GitHub wiki.
+3. Make sure to back up your current files and database before updating.
+
+---
+
+## 📂 File Structure Overview
+
+After installation, your main folders will include:
+
+- `/games` – Contains all HTML5 game files.
+- `/admin` – Admin panel interface files.
+- `/config` – Configuration files including database settings.
+- `/assets` – Images, scripts, and stylesheets.
+- `/logs` – Stores system logs for debugging and monitoring.
+
+---
+
+## 🧩 Compatibility
+
+This casino script works on most shared hosting and dedicated servers with PHP and MySQL support. It runs on modern web browsers and adjusts correctly for:
+
+- Desktop computers (Windows, macOS, Linux).
+- Tablets and smartphones (iOS, Android).
+
+---
+
+## 🧑‍💻 No Programming Needed
+
+You do not need to know programming to run this casino engine. The installation wizard guides you through setup using simple forms. Managing the casino uses clickable menus and clear options.
+
+If you wish to customize or expand the platform, basic knowledge of PHP and web development can help but is optional.
+
+---
+
+Remember, the best way to get started is to visit the download page now:
+
+[⬇️ Visit to Download Latest Release](https://github.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/releases)
